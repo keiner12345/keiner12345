@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" alt="Presentation" width="600"/>
+<p align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <span style="font-size: 24px; font-weight: bold;">💻 Welcome to My Developer Portfolio 🚀</span>
+  <img src="https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg" alt="Coding Setup" width="400"/>
 </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
@@ -8,7 +9,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-✉️ &nbsp;You can shoot me an email at gzkeiner@gmail.com! I'll try to respond as soon as I can.
+- 🎓 I'm a **junior developer** passionate about building web applications and learning new technologies.  
+- 💡 Always looking for **new challenges** and opportunities to grow in the tech industry.  
+- 🏗️ Interested in **backend development**, **databases**, and **RESTful APIs**.  
+- 🌱 Currently learning **Laravel**, **Angular**, and improving my **JavaScript** skills.  
+- 📌 I love working on **open-source projects** and collaborating with other developers.  
+- 📫 Feel free to reach out to me at **gzkeiner@gmail.com**!  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
