@@ -1,11 +1,9 @@
 <p align="center" style="display: flex; align-items: center; justify-content: space-between;">
   <span style="font-size: 28px; font-weight: bold;">👨‍💻 Code & Creativity</span>
-  <img src="./assets/programmer-coding.png" alt="Programmer Coding" width="400"/>
+  <img src="/mnt/data/A_programmer_sitting_at_a_desk,_focused_on_writing.png" alt="Programmer Coding" width="400"/>
 </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Keiner Serna -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,6 +12,7 @@
 - 🏗️ Interested in **backend development**, **databases**, and **RESTful APIs**.  
 - 🌱 Currently learning **Laravel**, **Angular**, and improving my **JavaScript** skills.  
 - 📌 I love working on **open-source projects** and collaborating with other developers.  
+- 🐧 I have **basic knowledge of Linux** and enjoy using it for development and server management.  
 - 📫 Feel free to reach out to me at **gzkeiner@gmail.com**!  
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -30,6 +29,7 @@
 
 ### 🗃 &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-005571?style=for-the-badge&logo=mysql)&nbsp;
+![Workbench](https://img.shields.io/badge/-Workbench-4479A1?style=for-the-badge&logo=mysql)&nbsp;
 
 ### 🧰 &nbsp;Version Control & Tools 
 
