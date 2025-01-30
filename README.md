@@ -1,4 +1,6 @@
-![Presentation](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
+<p align="center">
+  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" alt="Presentation" width="600"/>
+</p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
 
@@ -27,6 +29,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
