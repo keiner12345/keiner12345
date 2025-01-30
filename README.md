@@ -1,5 +1,5 @@
 
-![Presentatin]([file:///home/keiner/Descargas/pexels-luis-gomes-166706-546819.jpg)&nbsp;
+![Presentatin](https://www.pexels.com/es-es/foto/ordenador-portatil-negro-y-gris-546819/)&nbsp;
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
 
