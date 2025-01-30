@@ -1,5 +1,5 @@
 
-![Presentatin](https://i.pinimg.com/236x/ea/e7/61/eae761ae238d606116fa09d3e404877d.jpg)&nbsp;
+![Presentatin]([https://i.pinimg.com/236x/ea/e7/61/eae761ae238d606116fa09d3e404877d.jpg](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))&nbsp;
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
 
@@ -7,14 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at gzkeiner@gmail.com! I'll try to respond as soon as I can.\
-
+✉️ &nbsp;You can shoot me an email at gzkeiner@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
