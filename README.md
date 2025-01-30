@@ -1,9 +1,3 @@
-<p align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  <span style="font-size: 28px; font-weight: bold;">👨‍💻 Código & Creatividad</span>
-  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" alt="Programador Codificando" width="400"/>
-</p>
-
-<img alt="Saludos" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Keiner Serna</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mí
 
