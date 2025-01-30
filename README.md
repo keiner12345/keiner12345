@@ -1,23 +1,23 @@
 <p align="center" style="display: flex; align-items: center; justify-content: space-between;">
-  <span style="font-size: 28px; font-weight: bold;">👨‍💻 Code & Creativity</span>
-  <img src="/mnt/data/A_programmer_sitting_at_a_desk,_focused_on_writing.png" alt="Programmer Coding" width="400"/>
+  <span style="font-size: 28px; font-weight: bold;">👨‍💻 Código & Creatividad</span>
+  <img src="https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg" alt="Programador Codificando" width="400"/>
 </p>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
+<img alt="Saludos" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Keiner Serna</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mí
 
-- 🎓 I'm a **junior developer** passionate about building web applications and learning new technologies.  
-- 💡 Always looking for **new challenges** and opportunities to grow in the tech industry.  
-- 🏗️ Interested in **backend development**, **databases**, and **RESTful APIs**.  
-- 🌱 Currently learning **Laravel**, **Angular**, and improving my **JavaScript** skills.  
-- 📌 I love working on **open-source projects** and collaborating with other developers.  
-- 🐧 I have **basic knowledge of Linux** and enjoy using it for development and server management.  
-- 📫 Feel free to reach out to me at **gzkeiner@gmail.com**!  
+- 🎓 Soy un **desarrollador junior** apasionado por la creación de aplicaciones web y el aprendizaje de nuevas tecnologías.  
+- 💡 Siempre en búsqueda de **nuevos desafíos** y oportunidades para crecer en la industria tecnológica.  
+- 🏗️ Interesado en el **desarrollo backend**, **bases de datos** y **APIs RESTful**.  
+- 🌱 Actualmente aprendiendo **Laravel**, **Angular** y mejorando mis habilidades en **JavaScript**.  
+- 📌 Me encanta trabajar en **proyectos de código abierto** y colaborar con otros desarrolladores.  
+- 🐧 Tengo **conocimientos básicos de Linux** y disfruto usándolo para desarrollo y gestión de servidores.  
+- 📫 ¡No dudes en contactarme en **gzkeiner@gmail.com**!  
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Codificación Nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
@@ -27,18 +27,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+### 🗃 &nbsp;Bases de Datos
 ![MySQL](https://img.shields.io/badge/-MySQL-005571?style=for-the-badge&logo=mysql)&nbsp;
 ![Workbench](https://img.shields.io/badge/-Workbench-4479A1?style=for-the-badge&logo=mysql)&nbsp;
 
-### 🧰 &nbsp;Version Control & Tools 
+### 🧰 &nbsp;Control de Versiones & Herramientas 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conéctate Conmigo
 
 <p align="center">
 <a href="https://www.instagram.com/keinerhhh/"><img src="https://img.shields.io/badge/-KeinerSerna-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
