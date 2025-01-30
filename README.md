@@ -1,5 +1,5 @@
 
-![Presentatin]([https://i.pinimg.com/236x/ea/e7/61/eae761ae238d606116fa09d3e404877d.jpg](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1))&nbsp;
+![Presentatin]([file:///home/keiner/Descargas/pexels-luis-gomes-166706-546819.jpg)&nbsp;
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Keiner Serna</h2>
 
