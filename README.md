@@ -6,7 +6,7 @@
 - 🏗️ Interesado en el **desarrollo backend**, **bases de datos** y **APIs RESTful**.  
 - 🌱 Actualmente aprendiendo **Laravel**, **Angular** y mejorando mis habilidades en **JavaScript**.  
 - 📌 Me encanta trabajar en **proyectos de código abierto** y colaborar con otros desarrolladores.  
-- 🐧 Tengo **conocimientos básicos de Linux** y disfruto usándolo para desarrollo y gestión de servidores.  
+- 🐧 Tengo **conocimientos básicos de Linux** y estoy mejorando mis habilidades.  
 - 📫 ¡No dudes en contactarme en **gzkeiner@gmail.com**!  
 
 <img alt="Codificación Nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
